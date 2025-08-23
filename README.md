@@ -15,7 +15,7 @@ This repository serves as a view into the features commonly requested by our use
 Please do not open issues in this repository. Instead:
 
 * [Join our Discord](https://discord.gg/5GhK7E54yA) and provide feedback in the relevant channels
-* [Join our waiting list](https://forms.gle/8MeXwGjpBFDeGNQw9) if you are looking for integration with new languages/frameworks
+* Also consider [filling in our survey](https://forms.gle/8MeXwGjpBFDeGNQw9) if you are looking for integration with new languages/frameworks
 
 We continuously evaluate user feedback and prioritize development based on demand and impact. As features gain traction through user requests, we'll update here accordingly.
 
