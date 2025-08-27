@@ -2,6 +2,8 @@
 
 Welcome to the [Tidewave](https://tidewave.ai/) public roadmap!
 
+Check out the [public board](https://github.com/orgs/tidewave-ai/projects/1/views/1).
+
 ## How This Roadmap Works
 
 This repository serves as a view into the features commonly requested by our users that we plan to work in the future or that we are currently working on. A few notes to keep in mind:
