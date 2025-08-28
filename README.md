@@ -23,4 +23,4 @@ We continuously evaluate user feedback and prioritize development based on deman
 
 ## Show Your Support
 
-If you see a feature request that you'd love to have, please react to the existing issue with a 👍 or other emoji! This also helps us gauge community interest and prioritize features.
+If you see a feature request that you'd love to have, please react to the existing issue with a 👍! This helps us gauge community interest and prioritize features. [See the issues list sorted by thumbs up](https://github.com/tidewave-ai/roadmap/issues?q=is%3Aissue%20state%3Aopen%20sort%3Areactions-%2B1-desc).
