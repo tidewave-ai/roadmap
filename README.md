@@ -12,6 +12,8 @@ This repository serves as a view into the features commonly requested by our use
 * This roadmap only includes feature requests, not bug reports. We track bug reports in our internal issues tracker and typically give addressing bugs higher priority than implementing new features.
 * Not all features we're working on will appear here — we like to keep some surprises for our users!
 
+If you see a feature request that you'd love to have, please react to the existing issue with a 👍! This helps us gauge community interest and prioritize features. [See the issues list sorted by thumbs up](https://github.com/tidewave-ai/roadmap/issues?q=is%3Aissue%20state%3Aopen%20sort%3Areactions-%2B1-desc).
+
 ## Want to Request a Feature?
 
 Please do not open issues in this repository. Instead:
@@ -21,6 +23,6 @@ Please do not open issues in this repository. Instead:
 
 We continuously evaluate user feedback and prioritize development based on demand and impact. As features gain traction through user requests, we'll update here accordingly.
 
-## Show Your Support
+## Have You Found a Bug?
 
-If you see a feature request that you'd love to have, please react to the existing issue with a 👍! This helps us gauge community interest and prioritize features. [See the issues list sorted by thumbs up](https://github.com/tidewave-ai/roadmap/issues?q=is%3Aissue%20state%3Aopen%20sort%3Areactions-%2B1-desc).
+You can file bug reports in the [language specific Tidewave repositories listed in our organization](https://github.com/tidewave-ai). You are also welcome to [email support](mailto:support@tidewave.ai).
